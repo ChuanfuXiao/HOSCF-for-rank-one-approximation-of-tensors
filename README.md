@@ -32,7 +32,7 @@ In order to present the scalability of HOSCF, we implement the HOSCF and HOPM(ba
 ## Quick Start
 Part 1: Matlab code
 
-The implementation of HOSCF depends on [Tensor Toolbox v3.1](https://www.tensortoolbox.org/), all of the tensor basic operations are based on this package.
+The implementation of HOSCF depends on [Tensor Toolbox v3.1](https://www.tensortoolbox.org/), all tensor basic operations are based on this package.
 
 Part 2: C code
 
