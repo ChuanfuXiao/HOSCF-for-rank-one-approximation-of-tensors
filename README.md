@@ -30,6 +30,12 @@ In order to present the scalability of HOSCF, we implement the HOSCF and HOPM(ba
 
 
 ## Quick Start
+Part 1: Matlab code
+
+The implementation of HOSCF depends on [Tensor Toolbox v3.1](https://www.tensortoolbox.org/), all of the tensor basic operations are based on this package.
+
+Part 2: C code
+
 The HOSCF depends on blas and lapack. A convenient way to get this ready is [oneapi](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html).
 
 ```
