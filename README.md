@@ -3,7 +3,7 @@ Finding the best rank-one approximation is one of the most fundamental tasks in 
 
 ## Theorem
 Mathematically, finding the best rank-one approximation of tensors is equivalent to solving the following NEPv:
-![HOSCF Algorithm](/img/th1.png)
+![HOSCF Algorithm](/img/thm1.png)
 
 ## Algorithm
 We can directly use the SCF iteration to solve the rank-one approximation of tensors, i.e., the proposed HOSCF algorithm.
