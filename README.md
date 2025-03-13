@@ -1,5 +1,5 @@
 ## Abstract
-Best rank-one approximation is one of the most fundamental tasks in tensor computation. In order to fully exploit modern multi-core parallel computers, we build a bridge between the rank-one approximation of tensors and the eigenvector-dependent nonlinear eigenvalue problem (NEPv), and then develop an efficient decoupling algorithm, namely the higher-order self-consistent field (HOSCF) algorithm. 
+Finding the best rank-one approximation is one of the most fundamental tasks in tensor computation and is widely used in various applications, such as wireless communication and multi-target tracking. In order to fully exploit modern multi-core parallel computers, we develop a novel decoupling algorithm that is parallel friendly. Specifically, we first build a bridge between the rank-one approximation of tensors and the eigenvector-dependent nonlinear eigenvalue problem (NEPv) and then proposed the higher-order self-consistent field (HOSCF) algorithm. Numerical results demonstrate the advantages of the proposed HOSCF algorithm.
 
 ## Algorithm
 ![HOSCF Algorithm](/img/algorithm.png)
